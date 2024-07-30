@@ -1,0 +1,3 @@
+date, time, trip_estimate, base_fare, minimum_fare, plus_per_minute, plus_per_kilometer, wait_charge
+2023-01-02,15:24:49.845159,EGP 61.77,EGP 12.40,EGP 20.00,EGP 0.70,EGP 4.52,EGP 0.70
+2023-01-07,22:50:58.369903,EGP 58.17,EGP 12.40,EGP 20.00,EGP 0.70,EGP 4.52,EGP 0.70
