@@ -4,13 +4,13 @@
 
 ## Description
 
-This project was designed to scrape Uber ride prices for specific routes. It used Selenium WebDriver to automate the process of logging into Uber's mobile website and retrieving price information for different ride types.
+This project was designed to scrape Uber ride prices for specific routes. It used Selenium WebDriver to automate the process of logging into Uber's website and retrieving price information for different ride types.
 
 Example CSV file output is under the `csv/uber/` directory.
 
 ## Features
 
-- Automated login to Uber's mobile website
+- Login to Uber's website (OTP verification should be manually entered through the terminal)
 - Retrieval of price information for multiple ride types
 - Saving of ride data to CSV files
 - Proxy rotation support for avoiding IP bans
